@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: CAVUCode
 description: Custom application development services
+show_downloads: false
